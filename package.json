@@ -1,0 +1,24 @@
+{
+  "name": "codecademy-minesweper-javascript",
+  "version": "1.0.0",
+  "description": "Minesweeper game created through Codecademy course",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "babel src -d lib"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JacobHonore/Codecademy-Minesweper-JavaScript.git"
+  },
+  "author": "Jacob Honoré",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JacobHonore/Codecademy-Minesweper-JavaScript/issues"
+  },
+  "homepage": "https://github.com/JacobHonore/Codecademy-Minesweper-JavaScript#readme",
+  "devDependencies": {
+    "babel-cli": "^6.26.0",
+    "babel-preset-env": "^1.7.0"
+  }
+}
